@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @devChann, I have over five years of experience in application developement
-- 👀 I’m interested in Data Analytics and how Organization can harness the power of location intelligence 
-- 🌱 I’m currently learning Deep  Learning algorithms using satelite data
-- 💞️ I’m looking to collaborate on AI powered solutions
-- 📫 How to reach me :- email: juniorkachann@gmail.com
+# Hi, I'm Chann 👋
 
-<!---
-devChann/devChann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead Geospatial Engineer in Nairobi. I turn raw location data into products people use.
+
+- 🤝 **Latest project:** [Together, or just nearby?](https://devchann.github.io/together-or-nearby/) tells real meetups from coincidence in GPS data. 41% of real encounters flagged as meetups, 1.7% of fake pairs. DuckDB, dbt, H3, MapLibre.
+- 🗺️ **Day job:** geospatial platform and data pipelines for infrastructure: PostGIS, GeoServer, QGIS Server, Martin vector tiles, Python.
+- 🧰 Python · SQL · PostGIS · DuckDB · dbt · H3 · GeoPandas · MapLibre · FastAPI · Docker · Google Earth Engine
+- 📫 juniorkachann@gmail.com · [LinkedIn](https://www.linkedin.com/in/chann-isaac-19b403145/)
